@@ -45,3 +45,9 @@ group :development do
   gem 'spring'
 end
 
+
+# Use devise as account manager
+gem 'devise'
+
+
+
